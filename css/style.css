@@ -1,4 +1,4 @@
-      body {
+body {
         margin: 0px;
         padding: 0px;
         font-family: "Lato", sans-serif;
@@ -24,7 +24,6 @@
       }
 
       .menu ul li {
-        background: red;
         padding: 13px;
       }
 
