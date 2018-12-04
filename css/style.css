@@ -1,6 +1,11 @@
-body {
+      body {
         margin: 0px;
         padding: 0px;
+        font-family: "Lato", sans-serif;
+      }
+      header {
+        padding: 10px;
+        display: flex;
       }
       .logo img {
         width: 150px;
@@ -8,4 +13,21 @@ body {
 
       .menu ul li {
         display: inline-block;
+      }
+
+      div {
+        display: inline-block;
+      }
+
+      a {
+        text-decoration: none;
+      }
+
+      .menu ul li {
+        background: red;
+        padding: 13px;
+      }
+
+      .menu {
+        margin-left: auto;
       }
